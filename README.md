@@ -32,11 +32,7 @@ This project demonstrates the data cleaning and preprocessing techniques applied
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/flipkart-mobile-data-cleaning.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd flipkart-mobile-data-cleaning
+    git clone https://github.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis.git
     ```
 
 ## Usage
@@ -54,4 +50,18 @@ This project demonstrates the data cleaning and preprocessing techniques applied
 
 ## screenshot
 https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/1.png
+https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/2.png
+https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/3.png
+https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/4.png
+https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/5.png
+https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/6.png
+https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/7.png
+https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/8.png
+https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/9.png
+https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/10.png
+https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/11.png
+https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/12.png
+https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/13.png
+
+
 
