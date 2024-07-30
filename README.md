@@ -62,6 +62,9 @@ This project demonstrates the data cleaning and preprocessing techniques applied
 ![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/11.png)
 ![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/12.png)
 ![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/13.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/14.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/15.png)
+![App Screenshot](https://raw.githubusercontent.com/DanialRashid786/Flipkart-Mobile-Dataset-Cleaning-and-Analysis/master/Screenshot/16.png)
 
 
 
